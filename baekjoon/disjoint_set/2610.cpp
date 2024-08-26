@@ -22,6 +22,7 @@ bool merge(int x, int y);
 void solve();
 void floydWarshall();
 
+
 // 왜 안되는지 모르겠음. 21% 오류
 int main(void){
     input();
