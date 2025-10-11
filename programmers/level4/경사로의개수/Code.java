@@ -1,7 +1,5 @@
 package programmers.level4.경사로의개수;
 
-import java.util.Arrays;
-
 public class Code {
     public static void main(String[] args) {
         Solution solution = new Solution();
